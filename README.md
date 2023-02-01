@@ -19,7 +19,7 @@ This project is a simple to do list application using Django.
 
 **Client:** HTML, CSS
 
-**Server:** Django
+**Server:** Python, Django
 
 **Database Service:** SQLite using Django ORM
 
